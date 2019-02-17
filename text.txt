@@ -1,1 +1,1 @@
-This is the first file in the repository
+This is the first file in the repository. But this is an addition.
